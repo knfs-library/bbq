@@ -1,7 +1,7 @@
 {
   "name": "@knfs-tech/bbq",
-  "version": "1.0.2",
-  "description": "Baby Queue",
+  "version": "1.0.3",
+  "description": "Baby Queue is a lightweight and efficient job queuing system designed to integrate directly on local files of Node.js applications. With built-in support for job management, workers, and message handling, BBQ helps you streamline asynchronous task execution and improve the performance of your applications.",
   "main": "./lib/cjs/index.js",
   "module": "./lib/esm/index.js",
   "exports": {
