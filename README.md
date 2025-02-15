@@ -4,6 +4,15 @@
 	<a href="https://github.com/knfs-library/bbq/actions/workflows/unit-test.yml" alt="github">
 	<img src="https://github.com/knfs-library/bbq/actions/workflows/unit-test.yml/badge.svg" alt="Github Actions" />
 	</a>
+  <a href="https://img.shields.io/github/license/knfs-library/bbq" alt="License">
+	<img src="https://img.shields.io/github/license/knfs-library/bbq" alt="License" />
+</a>
+<a href="https://img.shields.io/github/contributos/knfs-library/bbq" alt="License">
+	<img src="https://img.shields.io/github/contributors/knfs-library/bbq" alt="License" />
+</a>
+<a href="https://img.shields.io/github/languages/code-size/knfs-library/bbq" alt="License">
+	<img src="https://img.shields.io/github/languages/code-size/knfs-library/bbq" alt="License" />
+</a>
 </p>
 
 # About **Baby Queue**
